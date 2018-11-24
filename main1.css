@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+
+nav{
+	background-color: red;
+	font-family: calibri;
+	color: green;
+
+}
+
+#Search-1{
+	color: gray;
+	
+}	
+
+ul li  {
+	
+	display: inline-block;
+	padding: 20px;		
+}
+
+ul li:hover {
+	background-color: violet;
+	color: red;
+}
+
